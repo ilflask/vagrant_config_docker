@@ -1,0 +1,3 @@
+vm:
+    network: "192.168.*.*"
+    synced_folder: "*"
